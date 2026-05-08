@@ -30,6 +30,6 @@ I'm a passionate about data analytics. I love tackling complex problems, learnin
 </p>
 </details> 
 
-(<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/89fdc3d8-fb42-4be3-956d-2dbc8ba0fe98" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/89fdc3d8-fb42-4be3-956d-2dbc8ba0fe98" />
 
 
