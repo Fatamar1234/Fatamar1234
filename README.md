@@ -1,12 +1,5 @@
 # fatama.exe — always running  🎉
 
-## How to use:
-
-Copy the markdown below and update the placeholders with your personal information. Feel free to add more sections and use additional resources to reflect your style, taste and expertise. ✨
-
-<details><summary>Toggle to see the what the completed profile looks like</summary>
-<p>
-
 # Hi there, I'm Fatama ! 👋
 
 ![Banner Image](your_banner_image_url_here)
