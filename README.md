@@ -2,7 +2,7 @@
 
 # Hi there, I'm Fatama ! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image]([your_banner_image_url_here](https://www.pinterest.com/pin/37084396931507529/))
 
 ## About Me 🚀
 
