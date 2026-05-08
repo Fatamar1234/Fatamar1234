@@ -13,7 +13,7 @@ I'm a passionate about data analytics. I love tackling complex problems, learnin
 - 🔭 Working on: TravelAbroad, which is a platform that will make travel planning a bit easier using real data and 
 - 🌍 Languages: Python, Javascript, C++
 - 📫 How to reach me: fatamakt98@gmail.com
-- ⚡ Fun fact: I love going on walks 
+- ⚡ Fun fact: I love going on walks!
 
 ## My Skills 🧠
 
