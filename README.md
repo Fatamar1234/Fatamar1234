@@ -1,4 +1,4 @@
-# GitHub Profile README Template 🎉
+# fatama.exe — always running  🎉
 
 ## How to use:
 
@@ -7,7 +7,7 @@ Copy the markdown below and update the placeholders with your personal informati
 <details><summary>Toggle to see the what the completed profile looks like</summary>
 <p>
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Fatama ! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
