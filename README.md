@@ -7,13 +7,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate about data analytics. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+
+- 🔭 Working on: TravelAbroad, which is a platform that will make travel planning a bit easier using real data and 
+- 🌍 Languages: Python, Javascript, C++
+- 📫 How to reach me: fatamakt98@gmail.com
+- ⚡ Fun fact: I love going on walks 
 
 ## My Skills 🧠
 
