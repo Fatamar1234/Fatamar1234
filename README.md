@@ -1,8 +1,9 @@
-# fatama.exe — always running  🎉
+# fatama.exe — always running 😮‍💨
 
 # Hi there, I'm Fatama ! 👋
 
-![Banner Image]([your_banner_image_url_here](https://www.pinterest.com/pin/37084396931507529/))
+<img width="512" height="640" alt="image" src="https://github.com/user-attachments/assets/148ae697-7b6e-46ea-8474-f56afecfffde" />
+
 
 ## About Me 🚀
 
